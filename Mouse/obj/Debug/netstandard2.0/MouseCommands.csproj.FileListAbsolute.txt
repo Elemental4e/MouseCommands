@@ -1,0 +1,8 @@
+c:\Users\Enni\source\repos\Mouse\Mouse\bin\Debug\netstandard2.0\MouseCommands.deps.json
+c:\Users\Enni\source\repos\Mouse\Mouse\bin\Debug\netstandard2.0\MouseCommands.dll
+c:\Users\Enni\source\repos\Mouse\Mouse\bin\Debug\netstandard2.0\MouseCommands.pdb
+c:\Users\Enni\source\repos\Mouse\Mouse\obj\Debug\netstandard2.0\MouseCommands.AssemblyInfoInputs.cache
+c:\Users\Enni\source\repos\Mouse\Mouse\obj\Debug\netstandard2.0\MouseCommands.AssemblyInfo.cs
+c:\Users\Enni\source\repos\Mouse\Mouse\obj\Debug\netstandard2.0\MouseCommands.csproj.CoreCompileInputs.cache
+c:\Users\Enni\source\repos\Mouse\Mouse\obj\Debug\netstandard2.0\MouseCommands.dll
+c:\Users\Enni\source\repos\Mouse\Mouse\obj\Debug\netstandard2.0\MouseCommands.pdb

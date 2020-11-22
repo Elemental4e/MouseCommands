@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aTQd5+1yMoKNFpv2dKJrWNYAQEHY1j4BCZk73HTdwCDIO2skrV13Y1cY0lmRcx25OGxCLgETwQomNTt1SZG4QQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Enni\\source\\repos\\Mouse\\Mouse\\MouseCommands.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Enni\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Enni\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
